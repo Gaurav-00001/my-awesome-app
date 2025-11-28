@@ -72,9 +72,10 @@ export default defineConfig([
   },
 ])
 ```
-screenshots:- <img width="1919" height="910" alt="Screenshot 2025-11-28 125945" src="https://github.com/user-attachments/assets/16e5cdee-4dbe-4863-add1-f2668231c4ec" />
-              <img width="1615" height="866" alt="Screenshot 2025-11-28 153217" src="https://github.com/user-attachments/assets/55ad1003-dfbc-4d68-b06c-60f45b896182" />
-              <img width="1904" height="957" alt="Screenshot 2025-11-28 154400" src="https://github.com/user-attachments/assets/bca3e69b-5f5a-44c4-8565-2b71a6541751" />
+screenshots:- <img width="1904" height="927" alt="Screenshot 2025-11-28 171529" src="https://github.com/user-attachments/assets/b66ebe2f-02b1-447f-b06c-216c93c5d787" />
+              <img width="1919" height="1014" alt="Screenshot 2025-11-28 171652" src="https://github.com/user-attachments/assets/6830b735-44cf-49bc-9766-1a8ff1d750b3" />
+              <img width="1918" height="1007" alt="Screenshot 2025-11-28 171920" src="https://github.com/user-attachments/assets/5ccc408c-395f-4107-80f9-7aaa2372b67a" />
+              <img width="1910" height="1014" alt="Screenshot 2025-11-28 171956" src="https://github.com/user-attachments/assets/0a00fd47-0871-41d2-af00-bb2c286dccc1" />
 
 
 
