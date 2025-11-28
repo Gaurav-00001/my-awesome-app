@@ -73,9 +73,7 @@ export default defineConfig([
 ])
 ```
 screenshots:- <img width="1919" height="910" alt="Screenshot 2025-11-28 125945" src="https://github.com/user-attachments/assets/16e5cdee-4dbe-4863-add1-f2668231c4ec" />
-
               <img width="1615" height="866" alt="Screenshot 2025-11-28 153217" src="https://github.com/user-attachments/assets/55ad1003-dfbc-4d68-b06c-60f45b896182" />
-
               <img width="1904" height="957" alt="Screenshot 2025-11-28 154400" src="https://github.com/user-attachments/assets/bca3e69b-5f5a-44c4-8565-2b71a6541751" />
 
 
